@@ -1,7 +1,7 @@
 package ejemplogithub;
 public class EjemploGithub {
-    public static void main(String[] args) {
-        System.out.println("Hola :3");
+    public static void main(String[] args){
+        System.out.println("BLAAAAA");
     }
     
 }
